@@ -1,0 +1,6 @@
+num=int(input("Enter a number :"))
+print("Number entered :",num)
+onum=oct(num)
+hnum=hex(num)
+print("Octal converion yields",onum)
+print("hexa converion yields",hnum)
